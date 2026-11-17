@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "exportedAt": "2026-11-17T16:05:00.000Z",
+  "people": [],
+  "tasks": [],
+  "priorities": {
+    "low": { "label": "Низкий", "color": "#94a3b8", "order": 0 },
+    "normal": { "label": "Обычный", "color": "#3b82f6", "order": 1 },
+    "high": { "label": "Высокий", "color": "#f59e0b", "order": 2 },
+    "urgent": { "label": "Срочный", "color": "#ef4444", "order": 3 },
+    "info": { "label": "Для информации", "color": "#8b5cf6", "order": 4 }
+  },
+  "statuses": {
+    "todo": { "label": "К выполнению", "color": "#64748b", "order": 0 },
+    "doing": { "label": "В работе", "color": "#0ea5e9", "order": 1 },
+    "done": { "label": "Выполнено", "color": "#22c55e", "order": 2 },
+    "cancelled": { "label": "Отмена", "color": "#94a3b8", "order": 3 },
+    "rescheduled": { "label": "Перенос", "color": "#f59e0b", "order": 4 }
+  },
+  "users": []
+}
